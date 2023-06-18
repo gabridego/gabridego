@@ -2,7 +2,9 @@
 
 ---
 
-My name is Gabriele Degola and I am a fresh graduate in *Data Science and Engineering* from *Politecnico di Torino*, Italy, and *Grenoble INP - Ensimag*, France, where I followed an Erasmus+ double degree lasting 18 months. I conducted my Master's Thesis at [*Neovision*](https://neovision.fr/en/), focusing on the *domain adaptation* problem in computer vision, with title [Approaches for Domain Adaptive Object Detection in Production Environments](http://webthesis.biblio.polito.it/id/eprint/22642).
+My name is Gabriele Degola and I am a software engineer with strong interest in AI, experienced in video streaming and computer vision. Currently working at [CAMNET](https://www.wamagroup.it/31/camnet-s-r-l).
+
+I am a graduate in *Data Science and Engineering* from *Politecnico di Torino*, Italy, and *Grenoble INP - Ensimag*, France, where I followed an Erasmus+ double degree lasting 18 months. I conducted my Master's Thesis at [*Neovision*](https://neovision.fr/en/), focusing on the *domain adaptation* problem in computer vision, with title [Approaches for Domain Adaptive Object Detection in Production Environments](http://webthesis.biblio.polito.it/id/eprint/22642).
 
 ---
 
